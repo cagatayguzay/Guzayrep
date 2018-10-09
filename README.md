@@ -1,2 +1,0 @@
-# Guzayrep
-Görüntü İşleme
